@@ -1,4 +1,4 @@
-# Assignment for 2018-02-03
+# Assignment for 2018-03-09
 
 ## The Task
 
@@ -11,10 +11,12 @@
 4. `On click of the green button, change the text of the button to a different text and the color of the button to a different colour `.
 5. `Link one of the div buttons to your public Facebook or Github profile (feel free to select any button you live"`
 
+But this time **IN JQUERY**
+
 ## Solution
 
-All changes are done file https://github.com/yasinaydin/ttu-ICD0007-20180203/blob/master/js/override.js 
+All changes are done file https://github.com/yasinaydin/ttu-ICD0007-20180309/blob/master/js/override.js 
 
 ## Website
 
-Solutions are uploaded to here: http://enos.itcollege.ee/~yaaydi/ttu-icd0007-20180203/
+Solutions are uploaded to here: http://enos.itcollege.ee/~yaaydi/ttu-icd0007-20180309/
